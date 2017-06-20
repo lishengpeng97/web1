@@ -1,0 +1,82 @@
+#lu{
+	width: 200px;
+	height: 400px;
+	margin-top: 30px;
+	margin-right: 100px;
+	background-color: #D3D3D3;
+	float: left;
+}
+#lu ul li a{
+	font-size: 30px;
+	font-family: '黑体';
+	color: #6A5ACD;
+	line-height: 60px;
+	padding-left: 25px;
+}
+.zuopin {
+	padding-top: 15px;
+	padding-left: 15px;
+	font-size: 40px;
+	color: #FFA500;
+}
+.ge{
+	font-weight: 900;
+}
+#right{
+	width: 900px;
+	height: 400px;
+	margin-top: 30px;
+	float: left;
+}
+.geming{
+	float: left;
+}
+.geming ul li a{
+	font-size: 40px;
+	color: white;
+	line-height: 60px;
+	padding-left: 25px;
+	margin-right: 200px
+}
+.riqi{
+	margin-left: 100px;
+	line-height: 60px;
+	float: left;
+}
+.riqi ul li {
+	font: 30px '宋体';
+	line-height: 60px;
+	color: white;
+}
+#ld{
+	width: 200px;
+	height: 400px;
+	margin-top: 30px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+	background-color: #D3D3D3;
+	float: left;
+}
+#ld ul li a{
+	font-size: 25px;
+	font-family: '黑体';
+	color: #6A5ACD;
+	line-height: 50px;
+	padding-left: 25px;
+}
+#fanye{
+	width: 900px;
+	height:100px;
+	float: left;
+	text-align: center;
+	margin-top: 80px;
+}
+#fanye ul li {	
+	display: inline;
+}
+#fanye ul li a{
+	font-size: 25px;
+}
+.shou{
+	text-decoration: underline;
+}

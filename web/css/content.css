@@ -1,0 +1,62 @@
+#content{
+	width: 1215px;
+	height: 1000px;
+	margin-top: 10px;
+	float: left;
+}
+#r_c{
+	float: left;
+	width: 900px;
+	height: 800px;
+}
+#l_c{
+	float: right;
+	width: 200px;
+	height: 1000px;
+}
+.thing {
+	float: left;
+	font-size: 25px;
+	line-height: 40px;
+	color: white;
+}
+ h1{
+ 	text-align: center;
+	font: 30px '幼圆';
+	color: #BA55D3;
+}
+img{
+	float: left;
+	margin: 10px;
+}
+.pinglun {
+	padding-top: 15px;
+	padding-left: 15px;
+	font-size: 40px;
+	color: #FFA500;
+}
+#l_c{
+	float: right;
+}
+.l_c1{
+	height: 400px;
+	margin-bottom: 100px;
+	background-color: gray;
+}
+.l_c1 ul li a{
+	line-height: 30px;
+	padding: 5px;
+}
+.l_c2{
+	height: 400px;
+	background-color: white;
+}	
+.l_c2 ul li a{
+	line-height: 40px;
+	padding: 5px;
+	color: black;
+}
+.sub1{
+	float: right;
+	height: 20px;
+}

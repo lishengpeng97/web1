@@ -1,0 +1,130 @@
+#content_lu img{
+	margin-top: 5px;
+	margin-right: 50px;
+	width: 400px;
+	height: 519px;
+	float: left;
+}
+#content_cu{
+	margin-top: 10px;
+	margin-right: 50px;
+	width: 450px;
+	height: 519px;
+	float: left;
+}
+.cu1{
+	float: left;
+}
+
+.cu1 ul li a{
+	font: 25px '宋体';
+	color: black;
+	width: 350px;
+	height: 100px;
+	line-height: 60px;
+	margin-right: 20px;
+}
+ h1{
+	font: 50px '幼圆';
+	color: #BA55D3;
+}
+.cu2{
+	line-height: 60px;
+	float: left;
+}
+
+.cu2 ul li{
+	font: 25px '宋体';
+	line-height: 60px;
+}
+#content_ru{
+	
+	margin-top: 10px;
+	width: 215px;
+	height: 519px;
+	float: left;
+}
+
+.ksdl h2{
+	font-size: 40px;
+	height: 50px;
+	color: #F0FFFF;
+}
+#ming{
+	font: 50px;
+	line-height: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+}
+.kuang1{
+
+	width: 150px;
+	height: 20px;
+
+}
+.ma{
+	
+	margin-right: 10px;
+	margin-left: 90px;
+}
+.ma a{
+	font-size: 10px;
+}
+#but{
+
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 10px;
+
+}
+.sub{
+	width: 80px;
+	height: 30px;
+	font: 30px;
+}
+#dong{
+	margin-top: 5px;
+	width: 215px;
+	height: 10px;
+}
+
+#content_ld{
+	width: 490px;
+	height: 400px;
+	margin-right: 80px;
+	margin-bottom: 100px;
+	float: left;
+}
+textarea{
+	font-size: 20px;
+}
+.sub1{
+	margin-top: 10px;
+	width: 80px;
+	height: 30px;
+	float: right;
+}
+#content_rd{
+	width: 645px;
+	height: 400px;
+	margin-bottom: 100px;
+	float: left;
+}
+.yue{
+	height: 65px;
+	width: 645px;
+}
+.yue1{
+	width: 200px;
+	height: 100px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 50px;
+	float: left;
+}
+
+.yue2{
+	margin-top: 15px;
+	float: left;
+}
